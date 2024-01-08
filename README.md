@@ -15,7 +15,7 @@
 <p>The Fashion Week Concept Website is a static website built using HTML and CSS. It provides a visually appealing interface to showcase the concept of a fashion week event. The website is designed to be responsive and user-friendly.</p>
 <h2 id="demo">Demo</h2>
 <p>Explore the live demo of the Fashion Week Concept Website:</p>
-<p><a href="https://antra77.github.io/fashion-concept-website/">Live Demo</a></p>
+<p><a href="https://antra77.github.io/Fashion-Week-Concept/">Live Demo</a></p>
 <h2 id="features">Features</h2>
 <ul>
 <li><strong>Homepage:</strong> A visually appealing landing page introducing the fashion week concept.</li>
